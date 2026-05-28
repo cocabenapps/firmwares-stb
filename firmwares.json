@@ -1,1 +1,158 @@
-
+[
+  {
+    "modelo": "GELECTHDAA1604",
+    "archivo": "54776-gelect_hd-aa1604_31-05-16.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/54776-gelect_hd-aa1604_31-05-16.rar"
+  },
+  {
+    "modelo": "GELECTHDAT1801",
+    "archivo": "actualizacion_gelect_hd-at1801.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/actualizacion_gelect_hd-at1801.rar"
+  },
+  {
+    "modelo": "GELECTHDHL1209",
+    "archivo": "24a55-gelect_hd-hl1209_31-05-16v26.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/24a55-gelect_hd-hl1209_31-05-16v26.rar"
+  },
+  {
+    "modelo": "GELECTHDP125",
+    "archivo": "hdp125-20190405_soyea.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/hdp125-20190405_soyea.rar"
+  },
+  {
+    "modelo": "GELECTSDHL215B",
+    "archivo": "8af49-setbox-gelect_sd-hl215-150122.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/8af49-setbox-gelect_sd-hl215-150122.rar"
+  },
+  {
+    "modelo": "KONKAKHDT875A",
+    "archivo": "3dcbe-konka-khdt875-a-program_all-sv0001.00.19_2016-02-23.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/3dcbe-konka-khdt875-a-program_all-sv0001.00.19_2016-02-23.rar"
+  },
+  {
+    "modelo": "KONKAKHDT875CE",
+    "archivo": "10813-konka_khdt875-ce_sv0001.00.19_2017-07-06.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/10813-konka_khdt875-ce_sv0001.00.19_2017-07-06.rar"
+  },
+  {
+    "modelo": "KONKAKHDT885BD",
+    "archivo": "00bdb-konka-khdt885-bd-program-sv0001.00.05_2017-07-06.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/00bdb-konka-khdt885-bd-program-sv0001.00.05_2017-07-06.rar"
+  },
+  {
+    "modelo": "KONKAKHDT885BH",
+    "archivo": "b49ca-konka-khdt885-bh-program_all-sv0001.00.02_2017-10-15.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/b49ca-konka-khdt885-bh-program_all-sv0001.00.02_2017-10-15.rar"
+  },
+  {
+    "modelo": "KONKAKSDT863M",
+    "archivo": "6ec58-ksdt863-m-flash-sv0.01.11_2016-02-24.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/6ec58-ksdt863-m-flash-sv0.01.11_2016-02-24.rar"
+  },
+  {
+    "modelo": "MICODT252080",
+    "archivo": "05a2f-mico_dtmb_dt25_2080_v1.11_20151008.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/05a2f-mico_dtmb_dt25_2080_v1.11_20151008.rar"
+  },
+  {
+    "modelo": "MICODT46N03",
+    "archivo": "5f8fd-mico_dtmb_dt46_n03_v1.15_20160202 (1).rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/5f8fd-mico_dtmb_dt46_n03_v1.15_20160202%20(1).rar"
+  },
+  {
+    "modelo": "REALTVHMA1",
+    "archivo": "54d83-realtv_hma1_usb_upgrade_all_flash.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/54d83-realtv_hma1_usb_upgrade_all_flash.rar"
+  },
+  {
+    "modelo": "RUNCHDTT1900",
+    "archivo": "892b0-runch_dtt1900_upgrade (1).rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/892b0-runch_dtt1900_upgrade%20(1).rar"
+  },
+  {
+    "modelo": "RUNCHDTT1900V12",
+    "archivo": "6b447-actualizacion_runch_dtt1900v1.2.rar.man",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/6b447-actualizacion_runch_dtt1900v1.2.rar.man"
+  },
+  {
+    "modelo": "SOYEAHDP110D",
+    "archivo": "dd0df-soyea_hdp110d_20150924.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/dd0df-soyea_hdp110d_20150924.rar"
+  },
+  {
+    "modelo": "SOYEAHDP160",
+    "archivo": "eef26-hdp160-201704211358.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/eef26-hdp160-201704211358.rar"
+  },
+  {
+    "modelo": "SOYEASDP160",
+    "archivo": "b1e8e-soyea-mini-20150409.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/b1e8e-soyea-mini-20150409.rar"
+  },
+  {
+    "modelo": "HHJDTVB202201",
+    "archivo": "HH_Modelo_CB20ZHD11_Board_STB17GH_Ojo_no_lee_USB_otro_aspecto_OK.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/HH_Modelo_CB20ZHD11_Board_STB17GH_Ojo_no_lee_USB_otro_aspecto_OK.rar"
+  },
+  {
+    "modelo": "GELECTSDHL215",
+    "archivo": "GELECT_sd-hl215-150122.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/GELECT_sd-hl215-150122.rar"
+  },
+  {
+    "modelo": "ATECHDTH20",
+    "archivo": "ATEC-HD-TH20.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/ATEC-HD-TH20.rar"
+  },
+  {
+    "modelo": "ATECHDTL20A",
+    "archivo": "atec hd-TL20A.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/atec%20hd-TL20A.rar"
+  },
+  {
+    "modelo": "ATECHDNCE20",
+    "archivo": "atec hd-nce20.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/atec%20hd-nce20.rar"
+  },
+  {
+    "modelo": "HAIERHDMB2000T",
+    "archivo": "HAIER - HDMB-2000-T.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/HAIER%20-%20HDMB-2000-T.rar"
+  },
+  {
+    "modelo": "HAIERHDMB2000TM",
+    "archivo": "HDMB2000TM.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/HDMB2000TM.rar"
+  },
+  {
+    "modelo": "HAIERHDMB6000T",
+    "archivo": "HAIER HDMB-6000-T.rar",
+    "md5": "PON_AQUI_EL_MD5_REAL",
+    "url": "https://raw.githubusercontent.com/cocabenapps/firmwares-stb/main/HAIER%20HDMB-6000-T.rar"
+  }
+]
